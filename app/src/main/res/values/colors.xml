@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <color name="text_color">#790C5A</color>
+   <color name="background_color">#F1D4D4</color>
+   <color name="background_item_color">#F7E7E7</color>
+    <color name="teal_200">#790C5A</color>
+    <color name="teal_700">#790C5A</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
